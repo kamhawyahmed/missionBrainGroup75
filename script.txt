@@ -1,0 +1,5 @@
+script:
+
+Structure
+introduce the problem:
+The university of sieera leon had to sift through five years of hand written charts to complete the task at hand. 
